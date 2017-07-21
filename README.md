@@ -1,5 +1,4 @@
-# Household-Application
-#Objective: 
+# Objective: 
 To create an android application ( iOS in future) which will provide with the information to the user about 
 the vegetable vendors and milk men in the area. This application also have a vendor module which will let 
 the vendors register themselves and receive messages from the customers. Customers can notify the vendors about
